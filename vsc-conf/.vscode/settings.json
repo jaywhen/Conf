@@ -1,5 +1,5 @@
 {
-    //"editor.fontFamily": "等距更纱黑体 SC", // 控制编辑器字体
+    "editor.fontFamily": "Courier New",
     "editor.fontSize": 14, // 同上
     "editor.fontLigatures": true, // 连体字，效果不太好形容，见 https://typeof.net/Iosevka 最后一部分
     "editor.minimap.enabled": true, // 我用minimap，就是右边那个东西
